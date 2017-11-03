@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment1.params=e
+comment1.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment2.params=
+comment2.target=double\ getTilt()
+comment3.params=
+comment3.target=double\ getPan()
+numComments=4
